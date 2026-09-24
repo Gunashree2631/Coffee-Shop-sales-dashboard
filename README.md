@@ -3,6 +3,8 @@
 ## 📊 Project Overview
 The **Coffee Shop Sales Dashboard** is an interactive Power BI project designed to analyze coffee shop sales, product performance, customer footfall, and store-level performance.  
 It transforms raw sales data into **interactive visualizations and KPIs**, helping users understand revenue trends, product performance, customer activity, and store performance.
+<img width="1370" height="743" alt="image" src="https://github.com/user-attachments/assets/64afe73f-443c-4349-b1cf-5b92aaa915bd" />
+
 
 ---
 
